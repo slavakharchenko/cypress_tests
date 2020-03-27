@@ -5,4 +5,4 @@ npm install
 npm run test
 ```
 
-In opening window click on suite
+In opening window click on suite name
