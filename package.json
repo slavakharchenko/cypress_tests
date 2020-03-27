@@ -8,7 +8,7 @@
     "cypress": "^4.2.0"
   },
   "scripts": {
-    "test": "$(npm bin)/cypress open"
+    "test": "./node_modules/.bin/cypress open"
   },
   "author": "Kharchenko Slava",
   "license": "ISC"
