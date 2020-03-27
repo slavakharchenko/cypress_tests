@@ -16,4 +16,4 @@ In opening window click on suite name
  - data              # data folder
 ```
 
-# Notice: cypress/fixtures, cypress/support, cypress/plugins automaticly created by cypress, but there are no usefull code.
+**Notice: cypress/fixtures, cypress/support, cypress/plugins automaticly created by cypress, but there are no usefull code.**
