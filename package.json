@@ -1,0 +1,15 @@
+{
+  "name": "cypress_test",
+  "version": "1.0.0",
+  "description": "Cypress test for NetEnv",
+  "main": "index.js",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "cypress": "^4.2.0"
+  },
+  "scripts": {
+    "test": "$(npm bin)/cypress open"
+  },
+  "author": "Kharchenko Slava",
+  "license": "ISC"
+}
